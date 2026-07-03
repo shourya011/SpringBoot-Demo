@@ -1,12 +1,12 @@
-package com.shourya.springbootdemo;
+// package com.shourya.springbootdemo;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+// import org.springframework.web.bind.annotation.GetMapping;
+// import org.springframework.web.bind.annotation.RestController;
 
-@RestController
-public class HelloWorld {
-    @GetMapping("/")
-    public String hello(){
-        return "hello shourya";
-    }
-}
+// @RestController
+// public class HelloWorld {
+//     @GetMapping("/")
+//     public String hello(){
+//         return "hello shourya";
+//     }
+// }
